@@ -1,0 +1,7 @@
+D:\AMIGOS\source\repos\vladislav-semkin-kt-41-20\obj\Debug\net7.0\vladislav-semkin-kt-41-20.csproj.AssemblyReference.cache
+D:\AMIGOS\source\repos\vladislav-semkin-kt-41-20\obj\Debug\net7.0\vladislav-semkin-kt-41-20.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMIGOS\source\repos\vladislav-semkin-kt-41-20\obj\Debug\net7.0\vladislav-semkin-kt-41-20.AssemblyInfoInputs.cache
+D:\AMIGOS\source\repos\vladislav-semkin-kt-41-20\obj\Debug\net7.0\vladislav-semkin-kt-41-20.AssemblyInfo.cs
+D:\AMIGOS\source\repos\vladislav-semkin-kt-41-20\obj\Debug\net7.0\vladislav-semkin-kt-41-20.csproj.CoreCompileInputs.cache
+D:\AMIGOS\source\repos\vladislav-semkin-kt-41-20\obj\Debug\net7.0\vladislav-semkin-kt-41-20.MvcApplicationPartsAssemblyInfo.cs
+D:\AMIGOS\source\repos\vladislav-semkin-kt-41-20\obj\Debug\net7.0\vladislav-semkin-kt-41-20.MvcApplicationPartsAssemblyInfo.cache
