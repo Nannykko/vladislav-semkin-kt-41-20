@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vladislav-semkin-kt-41-20.Tests", "vladislav-semkin-kt-41-20.Tests\vladislav-semkin-kt-41-20.Tests.csproj", "{B3E50EEC-40AD-4CB4-B179-DBF46C76F359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vladislav-semkin-kt-41-20", "vladislav-semkin-kt-41-20\vladislav-semkin-kt-41-20.csproj", "{9951E51C-9C85-4203-9FCE-FB3604F068EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3E50EEC-40AD-4CB4-B179-DBF46C76F359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E50EEC-40AD-4CB4-B179-DBF46C76F359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E50EEC-40AD-4CB4-B179-DBF46C76F359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E50EEC-40AD-4CB4-B179-DBF46C76F359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9951E51C-9C85-4203-9FCE-FB3604F068EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9951E51C-9C85-4203-9FCE-FB3604F068EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9951E51C-9C85-4203-9FCE-FB3604F068EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9951E51C-9C85-4203-9FCE-FB3604F068EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F233720-FC48-4504-ACFA-9C8BC31CCE45}
+	EndGlobalSection
+EndGlobal
